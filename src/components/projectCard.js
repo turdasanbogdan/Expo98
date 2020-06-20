@@ -4,8 +4,8 @@ class Card extends Component {
     state = {  }
     render() { 
         return ( 
-            <div class="card">
-            <a href={this.props.linkToGit}>
+            <div class="card" >
+            <a href={this.props.linkToGit} data-toggle="tooltip" title="Go to Git">
             <img class="card-img-top" src={this.props.cardImageSource}/>
             <div class="card-body">
             <h5 class="card-title">{this.props.projectTitle}</h5>

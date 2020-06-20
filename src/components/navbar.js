@@ -17,9 +17,9 @@ class MyNavbar extends Component {
           <li className="nav-item">
           <a className="nav-link" href = "/projects">Projects</a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
           <a className="nav-link" href = "/blogs"> Blogs </a>
-          </li>
+          </li> */}
           <li className="nav-item">
           <a className="nav-link" href = "contact">Contact</a>
           </li>
