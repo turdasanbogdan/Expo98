@@ -11,9 +11,6 @@ class MyNavbar extends Component {
       <a className="navbar-brand" href="/">EXPO '98</a>
       <div className="navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
-          <li className="nav-item ">
-          <a className="nav-link" href = "/aboutMe"  >About Me</a>
-          </li>
           <li className="nav-item">
           <a className="nav-link" href = "/resume">Resume</a>
           </li>

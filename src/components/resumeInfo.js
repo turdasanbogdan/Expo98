@@ -31,11 +31,11 @@ class Info extends Component {
             </div>  
             <div className = "row pb-5">
                 <div className = "col md-4" style= {{ color: 'white', paddingTop: '2cm', paddingLeft: '2cm' }}>
-                    <p >2Mar 2019–May 2019</p>
+                    <p >Iun 2019–Oct 2019</p>
                 </div>   
                 <div className = "col md-8" style= {{ color: 'white', paddingTop: '2cm', paddingLeft: '2cm' }}>
                     <h4>BusyMachines, Timisoara (Romania)</h4>
-                    <h5 style = {{paddingTop: '0.5cm'}}>I took part at Scala lab organized by Liga Ac Labs at BusyMachines.</h5>
+                    <h5 style = {{paddingTop: '0.5cm'}}>Internship Trainee</h5>
                 </div>    
             </div>  
 
@@ -81,6 +81,18 @@ class Info extends Component {
             <div className = "row pb-4">
                 <div className = "col md-4" style= {{ color: 'white', paddingTop: '2cm', paddingLeft: '2cm'}}>
                     <p >Angular | Scala | Linux | Github</p>
+                </div>   
+                <div className = "col md-8" style= {{ color: 'white', paddingTop: '2cm', paddingLeft: '2cm' }}>
+                    <span className="fa fa-star " style = {{ color: '#b21f1f', fontSize : '35px' }}></span>
+                    <span className="fa fa-star " style = {{ color: '#b21f1f', fontSize : '35px' }}></span>
+                    <span className="fa fa-star " style = {{ color: '#b21f1f', fontSize : '35px' }}></span>
+                    <span className="fa fa-star " style = {{ color: '#b21f1f', fontSize : '35px' }}></span>
+                    <span className="fa fa-star-half-o " style = {{ color: '#b21f1f', fontSize : '35px' }}></span>
+                </div>    
+            </div>  
+            <div className = "row pb-4">
+                <div className = "col md-4" style= {{ color: 'white', paddingTop: '2cm', paddingLeft: '2cm'}}>
+                    <p>Scala</p>
                 </div>   
                 <div className = "col md-8" style= {{ color: 'white', paddingTop: '2cm', paddingLeft: '2cm' }}>
                     <span className="fa fa-star " style = {{ color: '#b21f1f', fontSize : '35px' }}></span>
