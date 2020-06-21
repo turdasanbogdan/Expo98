@@ -25,6 +25,13 @@ Aici am realizat:
 
 ![Alt text](/images/Projects.png)
 
+![Alt text](/images/AboutMe.png)
+
+![Alt text](/images/contact.png)
+
+
+#### Scuzati greselile de scriere :pensive:
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
