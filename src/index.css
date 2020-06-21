@@ -1,25 +1,91 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+#navbar-custom{
+    
+    background-color: #1a2a6c;  
+    background-image: -webkit-linear-gradient(to left, #fdbb2d, #b21f1f, #1a2a6c);  
+    background-image: linear-gradient(to left, #fdbb2d, #b21f1f, #1a2a6c); 
+
+}
+.home-panel{
+
+    background: #1a2a6c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); 
+    position: absolute;
+    height: 100%;
+
+}
+.pika{
+   height:350px;
+   padding-top: 0.2cm;
+   /* border-radius: 50%;
+   box-shadow: 10px 10px 8px 10px ; */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.welcome-title{
+    color: white ;
+    font-size: 65px;
 }
 
-.navbar-custom {
-  background-color: #8B0000;
+/* .home-panel hr{
+    border-top: 5px dotted white;
+    width: 500%;
+    margin:auto;
+} */
+.about-panel{
+    position: absolute;
+    height: 100%;
+
+}
+.myPhoto{
+   
+    height: 100%;
+    object-fit: fill;
+    border-radius: 50%;
+    box-shadow: 5px 5px 4px 5px ;
+
+}
+.col-left{
+    width: 100%;
+    height: 100%;
+}
+.col-right{
+    background-color: black;
+    
 }
 
-.navbar-custom .nav-link {
-  color:white;
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border: none;
 }
 
-.navbar-custom .nav-link:hover {
-  background-color:black;
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+}
+
+.card a{
+    color: initial;
+}
+
+.card a:hover{
+    text-decoration: initial;
+}
+
+.text-muted i{
+    margin: 0 10px;
+}
+.card-title{
+    font-size:15px;
+  transition:1s;
+  cursor:pointer;   
+}
+
+.card-img-top{
+    height:150px;
+    width:100%;
+}
+
+#card-description{
+    margin-top: 0.7cm;
+    height:150px;  
 }

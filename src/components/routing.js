@@ -6,7 +6,6 @@ import {
   } from "react-router-dom";
 
 import Home from './home';
-import AboutMe from './aboutMe';
 import Projects from './projects';
 import Resume from './resume';
 import Blogs from './blogs';
@@ -16,7 +15,6 @@ import Contact from './contact';
 const Routing = () => (
     <Switch>
         <Route exact path ="/" component = {Home} />
-        <Route path = "/aboutMe" component = {AboutMe}/>
         <Route path = "/projects" component = {Projects}/>
         <Route path = "/resume" component = {Resume}/>
         <Route path = "/blogs" component = {Blogs}/>
