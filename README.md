@@ -1,3 +1,30 @@
+# Un micut Portofoliu cu prezentarea mea
+
+Aici am realizat:
+- o pagina de aterizare
+- un Cv care contine date despre mine precum si o poza de profil
+- card-uri cu proiectele mele, precum si link catre repo-ul lor de pe git
+- slide show cu cateva lucruri despre mine
+- o pagina de contact
+
+
+
+## Tools
+- Visual Studio Code
+- React
+- React Routing
+-Bootstrap 4
+
+## UI
+
+![Alt text](/images/home.png)
+
+![Alt text](/images/resume.png)
+
+![Alt text](/images/skills.png)
+
+![Alt text](/images/Projects.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
