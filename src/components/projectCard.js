@@ -12,7 +12,7 @@ class Card extends Component {
               <p class="card-text" id = "card-description">
                 {this.props.projectDescription}
               </p>
-            <p class="card-text"><small class="text-muted"><i class="fa fa-github-square"></i><i class="fa fa-calendar"></i>{this.props.publishDate}</small></p>
+            <p class="card-text"><small class="text-muted"><i class="fa fa-github-square" style= {{ fontSize: '25px' }}></i><i class="fa fa-calendar"></i>{this.props.publishDate}</small></p>
            </div>
             </a>
           </div>

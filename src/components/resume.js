@@ -16,7 +16,7 @@ class Resume extends Component {
         <h4 style = {{ paddingTop: '2cm'}} className = "text-center"> Male | 16 Sep 1998 | Romanian</h4>
         <h3 style = {{ paddingTop: '3cm'}}>Student @ UPT</h3>
         <hr style = {{ bordertop: '3px solid black', width: '100%' }}/>
-        <p>
+        <p style = {{ paddingTop: '2cm'}}>
           <span style = {{ marginLeft: '1.25em' }}></span> I'm an eager student, passionate about technology and programming and I am looking forward to gather new skills. I previously worked as a junior Scala developer. I have contributed as a backender at the development of a new platform and worked with some interesting technologies like Docker, Aws and Sbt.
           <br/>
           <br/>
@@ -32,7 +32,7 @@ class Resume extends Component {
         <h4 style = {{ paddingTop: '3cm'}}>Job-realted skills</h4>
         <hr style = {{ bordertop: '3px solid black', width: '100%' }}/>
 
-        <p>
+        <p style = {{ paddingTop: '2cm'}}>
         <span style = {{ marginLeft: '1.25em' }}></span>
         Enthusiast junior developer, student at Politehnica University of Timisoara. I want to learn more OOP and functional programming . I`m a good learner, curious about all new and challenging technologies. I like programming and teamwork. I`m ready to challenge myself.
         </p>   

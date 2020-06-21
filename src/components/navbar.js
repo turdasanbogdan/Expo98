@@ -17,9 +17,9 @@ class MyNavbar extends Component {
           <li className="nav-item">
           <a className="nav-link" href = "/projects">Projects</a>
           </li>
-          {/* <li className="nav-item">
+          <li className="nav-item">
           <a className="nav-link" href = "/blogs"> Blogs </a>
-          </li> */}
+          </li>
           <li className="nav-item">
           <a className="nav-link" href = "contact">Contact</a>
           </li>
@@ -27,18 +27,6 @@ class MyNavbar extends Component {
       </div>
     </nav>
     
-  // <Navbar bg="light" expand="lg" className>
-  // <Navbar.Brand href="/">EXPO '98</Navbar.Brand>
-  // <Navbar.Collapse id="basic-navbar-nav">  
-  //   <Nav className="mr-auto" >
-  //     <Nav.Link href="/aboutMe">About Me</Nav.Link>
-  //     <Nav.Link href="/projects">Projects</Nav.Link>
-  //     <Nav.Link href="/resume">Resume</Nav.Link>
-  //     <Nav.Link href="/blogs">Blogs</Nav.Link>
-  //     <Nav.Link href="/contact">Contact</Nav.Link>
-  //   </Nav> 
-  // </Navbar.Collapse>
- // </Navbar>
           );
     }
 }
