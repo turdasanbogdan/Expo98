@@ -18,7 +18,7 @@ class MyNavbar extends Component {
           <a className="nav-link" href = "/projects">Projects</a>
           </li>
           <li className="nav-item">
-          <a className="nav-link" href = "/blogs"> Blogs </a>
+          <a className="nav-link" href = "/blogs"> About Me </a>
           </li>
           <li className="nav-item">
           <a className="nav-link" href = "contact">Contact</a>
